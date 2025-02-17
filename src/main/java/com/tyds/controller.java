@@ -26,7 +26,7 @@ public class controller {
 	
 	@GetMapping("api3")
 	public String home4() {
-		return "Application running 4";
+		return "Application running 4 .";
 		
 	}
 }
